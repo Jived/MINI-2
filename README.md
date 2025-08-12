@@ -38,12 +38,7 @@ HTML5 — for game layout
 
 CSS3 — for animations and styling
 
-JavaScript (Vanilla) — for game logic and interactivity
-
-⚡ Installation & Usage
-Clone this repository:
-git clone https://github.com/yourusername/click-the-target.git
-Open index.html in your browser.
+JavaScript — for game logic and interactivity
 
 Play and test your reflexes!
 🏆 Add a high score system.
